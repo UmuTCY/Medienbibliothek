@@ -6,16 +6,6 @@ public class App {
 
     public static void main(String[] args) {
 
-
-       /* VHS jurassic = new VHS("Jurassic Park", 120, "Wohnzimmer", 140, "gut");
-        Cartridge sonic = new Cartridge("Sonic", 50, "Schlafzimmer", true, "Nintendo", Konsolentyp.NES);
-
-        bib.medienHinzufuegen(jurassic);
-        bib.medienHinzufuegen(sonic);
-
-        bib.alleMedienAusgeben();
-        */
-
         ausgabe();
 
     }
